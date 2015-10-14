@@ -1,0 +1,27 @@
+{
+  "name": "fis3-parser-reactjs",
+  "version": "1.0.0",
+  "description": "fis3 parser for react.js & support es6,es7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwdgit/fis3-parser-reactjs.git"
+  },
+  "dependencies": {
+    "jstransform": "^11.0.3"
+  },
+  "keywords": [
+    "fis3",
+    "react",
+    "reasy"
+  ],
+  "author": "lwdgit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwdgit/fis3-parser-reactjs/issues"
+  },
+  "homepage": "https://github.com/lwdgit/fis3-parser-reactjs#readme"
+}
